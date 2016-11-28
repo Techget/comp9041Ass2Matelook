@@ -1,0 +1,9 @@
+09/10/16	14:00	18:00	coding
+09/10/16	19:00	21:00	debugging
+14/10/16	09:00	18:00	coding,finish level1 level2
+16/10/16	10:00	22:00	coding,finish level3 requirements except pagination,mate suggest,make post with picture/video
+20/10/16	21:00	23:30	coding
+21/10/16	09:30	12:20	coding
+21/10/16	14:00	17:30	debugging,coding
+
+
