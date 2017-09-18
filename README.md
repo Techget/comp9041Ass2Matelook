@@ -2,6 +2,7 @@
 Facebook-like Website, based on Perl CGI.
 
 To visit, the website address is `https://cgi.cse.unsw.edu.au/~z5089812/ass2/welcomeLoginPage.cgi`
+To login use username:z1234567, password:test
 
 The starting or root file is `matelook.cgi`
 
@@ -11,3 +12,5 @@ Functionalities include:
 3. Show and paginate the most recent posts in one's homepage
 4. Ask to send email if user forget their password
 5. User can recover their deleted account
+6. Friend Suggestions
+7. Comment on a post
