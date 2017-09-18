@@ -1,7 +1,7 @@
 # Simple Social Network Website base on Perl CGI.
 Facebook-like Website, based on Perl CGI.
 
-To visit, the website address is `https://cgi.cse.unsw.edu.au/~z5089812/ass2/welcomeLoginPage.cgi`
+To play with it, the website address is `https://cgi.cse.unsw.edu.au/~z5089812/ass2/welcomeLoginPage.cgi`
 To login use username:z1234567, password:test
 
 The starting or root file is `matelook.cgi`
