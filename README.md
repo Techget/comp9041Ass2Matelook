@@ -7,5 +7,7 @@ The starting or root file is `matelook.cgi`
 
 Functionalities include:
 1. Log in & Log out and Sign up
-2. Search user with user name
+2. Search with user name, or keyword of posts
 3. Show and paginate the most recent posts in one's homepage
+4. Ask to send email if user forget their password
+5. User can recover their deleted account
