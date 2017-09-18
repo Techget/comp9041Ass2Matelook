@@ -14,3 +14,4 @@ Functionalities include:
 5. User can recover their deleted account
 6. Friend Suggestions
 7. Comment on a post
+8. Send comfirmation Email when create one account. And send email to user if add-mate request is sent to that user.
